@@ -1,1 +1,1 @@
-# ethanbex.io
+# ethanbex.github.io
